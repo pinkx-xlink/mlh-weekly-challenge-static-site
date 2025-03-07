@@ -47,6 +47,8 @@ a {
     color: #FFF;
     width: 45%;
     margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
 }
 
 #physical-health-card {
@@ -78,15 +80,11 @@ a {
 
     .category-card {
         width: 70%;
-        padding: 1rem;
-        border-radius: 1rem;
     }
 }
 
 /* CSS FOR WHEN THIS APP RUNS ON MOBILE DEVICE */
 @media (max-width: 400px) {
-    
-    
     .category-container {
         display: flex;
         flex-direction: column;
@@ -95,7 +93,5 @@ a {
 
     .category-card {
         width: 70%;
-        padding: 1rem;
-        border-radius: 1rem;
     }
 }
