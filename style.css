@@ -23,6 +23,28 @@ nav {
     width: 45%;
 }
 
+
+/* CSS FOR WHEN THIS APP RUNS ON TABLET */
+@media (max-width: 960px) {
+    body {
+        background-color: purple;
+    }
+
+    .category-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .category-card {
+        background-color: rgba(0, 0, 255, 0.39);
+        width: 70%;
+        padding: 1rem;
+        border-radius: 1rem;
+    }
+}
+
+/* CSS FOR WHEN THIS APP RUNS ON MOBILE DEVICE */
 @media (max-width: 400px) {
     body {
         background-color: yellow;
