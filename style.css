@@ -2,6 +2,9 @@
     font-family: 'Montserrat Alternates';
     margin: 0px;
 }
+body {
+    background-color: #BABAC5;
+}
 .montserrat-alternates-regular {
     font-family: "Montserrat Alternates", sans-serif;
     font-weight: 400;
@@ -39,10 +42,6 @@ nav {
 
 /* CSS FOR WHEN THIS APP RUNS ON TABLET */
 @media (max-width: 960px) {
-    body {
-        background-color: purple;
-    }
-
     .category-container {
         display: flex;
         flex-direction: column;
@@ -59,10 +58,6 @@ nav {
 
 /* CSS FOR WHEN THIS APP RUNS ON MOBILE DEVICE */
 @media (max-width: 400px) {
-    body {
-        background-color: yellow;
-    }
-
     img {
         width: 100%;
         object-fit: cover;
