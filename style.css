@@ -48,7 +48,24 @@ a {
     width: 45%;
 }
 
-
+#physical-health-card {
+    background-color: #FB5607;
+}
+#affirmations-card {
+    background-color: #FFBE0B;
+}
+#diet-card {
+    background-color: greenyellow;
+}
+#habits-card {
+    background-color: #8338EC;
+}
+#hobbies-card {
+    background-color: #3A86FF;
+}
+#self-care-card {
+    background-color: #FF006E;
+}
 /* CSS FOR WHEN THIS APP RUNS ON TABLET */
 @media (max-width: 960px) {
     .category-container {
