@@ -35,7 +35,8 @@ nav {
 }
 
 .category-card {
-    background-color: rgba(0, 0, 255, 0.39);
+    background-color: #252525;
+    color: #FFF;
     width: 45%;
 }
 
@@ -49,7 +50,6 @@ nav {
     }
 
     .category-card {
-        background-color: rgba(0, 0, 255, 0.39);
         width: 70%;
         padding: 1rem;
         border-radius: 1rem;
@@ -70,7 +70,6 @@ nav {
     }
 
     .category-card {
-        background-color: rgba(0, 0, 255, 0.39);
         width: 70%;
         padding: 1rem;
         border-radius: 1rem;
