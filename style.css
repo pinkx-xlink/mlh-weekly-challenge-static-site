@@ -1,3 +1,12 @@
+* {
+    font-family: 'Montserrat Alternates';
+}
+.montserrat-alternates-regular {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
 nav {
     display: flex;
     justify-content: space-between;
