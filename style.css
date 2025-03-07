@@ -5,6 +5,7 @@
 body {
     background-color: #695A49;
 }
+
 img {
     width: 100%;
     object-fit: cover;
@@ -39,16 +40,17 @@ a {
 .category-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 5px;
 }
 
 .category-card {
     background-color: #252525;
     color: #FFF;
     width: 45%;
+    margin-bottom: 1rem;
 }
 
 #physical-health-card {
+    margin-top: 1rem;
     background-color: #FB5607;
 }
 #affirmations-card {
