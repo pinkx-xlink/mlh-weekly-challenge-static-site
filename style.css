@@ -74,10 +74,15 @@ a {
 
 /* CSS FOR DESKTOP VIEWING */
 @media (min-width: 999px) {
+    .categories {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
     .category-container {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        
     }
 }
 
