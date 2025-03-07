@@ -15,17 +15,17 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: green;
+    background-color: #4F8FFF;
     margin-bottom: 1rem;
 }
 .nav-buttons>button {
-    background-color: pink;
-    border-style: none;
+    background-color: #4F8FFF;
+    border-style: 1px solid #0045BD;
     height: 100%;
     padding: 1rem;
 }
 .nav-buttons>button:hover {
-    background-color: darkgreen;
+    background-color: #0045BD;
 }
 
 .category-container {
