@@ -9,6 +9,7 @@ body {
 img {
     width: 100%;
     object-fit: cover;
+    border-radius: 1rem;
 }
 .montserrat-alternates-regular {
     font-family: "Montserrat Alternates", sans-serif;
@@ -37,10 +38,10 @@ a {
     background-color: #0045BD;
 }
 
-.category-container {
+/* .category-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-}
+} */
 
 .category-card {
     background-color: #252525;
@@ -70,6 +71,16 @@ a {
 #self-care-card {
     background-color: #FF006E;
 }
+
+/* CSS FOR DESKTOP VIEWING */
+@media (min-width: 999px) {
+    .category-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        
+    }
+}
+
 /* CSS FOR WHEN THIS APP RUNS ON TABLET */
 @media (max-width: 960px) {
     .category-container {
