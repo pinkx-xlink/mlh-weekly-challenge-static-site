@@ -2,3 +2,14 @@ nav {
     display: flex;
     justify-content: space-between;
 }
+
+.category-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+}
+
+.category-card {
+    background-color: rgba(0, 0, 255, 0.39);
+    width: 45%;
+}
