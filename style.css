@@ -22,6 +22,10 @@ nav {
     background-color: #4F8FFF;
     margin-bottom: 1rem;
 }
+a {
+    text-decoration: none;
+    color: #252525;
+}
 .nav-buttons>button {
     background-color: #4F8FFF;
     border-style: 1px solid #0045BD;
