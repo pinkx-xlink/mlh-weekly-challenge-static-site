@@ -1,5 +1,6 @@
 * {
     font-family: 'Montserrat Alternates';
+    margin: 0px;
 }
 .montserrat-alternates-regular {
     font-family: "Montserrat Alternates", sans-serif;
@@ -10,6 +11,18 @@
 nav {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    background-color: green;
+    margin-bottom: 1rem;
+}
+.nav-buttons>button {
+    background-color: pink;
+    border-style: none;
+    height: 100%;
+    padding: 1rem;
+}
+.nav-buttons>button:hover {
+    background-color: darkgreen;
 }
 
 .category-container {
