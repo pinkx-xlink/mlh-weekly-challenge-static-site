@@ -5,6 +5,10 @@
 body {
     background-color: #BABAC5;
 }
+img {
+    width: 100%;
+    object-fit: cover;
+}
 .montserrat-alternates-regular {
     font-family: "Montserrat Alternates", sans-serif;
     font-weight: 400;
@@ -58,10 +62,7 @@ nav {
 
 /* CSS FOR WHEN THIS APP RUNS ON MOBILE DEVICE */
 @media (max-width: 400px) {
-    img {
-        width: 100%;
-        object-fit: cover;
-    }
+    
     
     .category-container {
         display: flex;
