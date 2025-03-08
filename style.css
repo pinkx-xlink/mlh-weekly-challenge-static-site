@@ -52,6 +52,8 @@ a {
     margin-bottom: 1rem;
     padding: 1rem;
     border-radius: 1rem;
+    border-top: 1px solid #252525;
+    border-bottom: 1px solid #252525;
 }
 
 #physical-health-card {
