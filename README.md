@@ -4,7 +4,7 @@ My entry for the MLH Hackathon (3-7-25 - 3-13-25) Weekly Challenge: create and d
 
 Jogging img credits: https://unsplash.com/photos/silhouette-of-three-women-running-on-grey-concrete-road-oGv9xIl7DkY?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
 
-Affirmations img credits:
+Affirmations img credits: Photo by Arthur Brognoli: https://www.pexels.com/photo/woman-sitting-at-the-edge-of-mountain-2261017/
 
 
 Food image: Photo by Timur Weber: https://www.pexels.com/photo/a-person-holding-a-ceramic-bowl-9127574/
@@ -16,3 +16,4 @@ Self care image: Photo by RDNE Stock project: https://www.pexels.com/photo/healt
 
 
 journaling img: Photo by RDNE Stock project: https://www.pexels.com/photo/healthy-nature-fashion-man-6724431/
+
