@@ -65,11 +65,11 @@ a {
     background-color: greenyellow;
 }
 #habits-card {
-    background-color: #8338EC;
-}
-#hobbies-card {
     background-color: #3A86FF;
 }
+/* #hobbies-card {
+    background-color: #8338EC; 
+} */
 #self-care-card {
     background-color: #FF006E;
 }
